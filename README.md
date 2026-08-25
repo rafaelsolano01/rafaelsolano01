@@ -61,9 +61,10 @@ Hands-on DevSecOps workflows featuring live network triage, custom Suricata IDS 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com">LinkedIn</a> • <a href="mailto:rafael@example.com">Email</a> • <a href="https://github.com/rafaelsolano01">GitHub</a>
+  <a href="https://www.linkedin.com/in/rafaelsolano-sec/">LinkedIn</a> • <a href="mailto:ralph_piano@yahoo.com">Email</a> • <a href="https://github.com/rafaelsolano01">GitHub</a>
   <br/><br/>
   ⚡ <i>Architect. Secure. Automate.</i> ⚡
+</div>
 </div>## Hi there 👋
 
 <!--
