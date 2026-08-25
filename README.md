@@ -41,15 +41,19 @@ AWS (EC2, S3, VPC, IAM, CloudWatch, GuardDuty) • Terraform • GitHub Actions 
 
 ### 📂 FEATURED PROJECTS
 
-🔴 **[TKH-Final-Capstone](https://github.com/rafaelsolano01/TKH-Phase-2)**  
-Automated, secure AWS web architecture provisioning using Terraform (IaC) with integrated SAST scanning via tfsec and GitHub Actions.
+### 📂 FEATURED PROJECTS
+
+🏆 **[CTF Hackathon Champion (1st Place)](https://github.com/rafaelsolano01/TKH-Phase-2)**  
+Earned 1st place in a competitive team-based Capture The Flag hackathon, solving challenges in network traffic analysis, cryptography, web application vulnerability exploitation, and privilege escalation.
+
+🔴 **[TKH Final Capstone - AWS Web Architecture](https://github.com/rafaelsolano01/TKH-Phase-2)**  
+Automated, secure AWS web architecture provisioning using Terraform (IaC) with integrated SAST scanning via tfsec and GitHub Actions quality gates.
 
 🔵 **[Titan Small Business Services Infrastructure](https://github.com/rafaelsolano01/TKH-Phase-2)**  
-Containerized, hardened cloud application stack deployed using Docker Compose, reverse proxying, and tight security group policies.
+Containerized, hardened cloud application stack deployed using Docker Compose, reverse proxying, and tight security group ingress rules.
 
-🟢 **[TKH-Phase-2 Security & Automation Labs](https://github.com/rafaelsolano01/TKH-Phase-2)**  
-Hands-on DevSecOps workflows featuring network monitoring, automated threat detection, and continuous integration security gates.
-
+🟢 **[TKH Phase 2 Security & Automation Labs](https://github.com/rafaelsolano01/TKH-Phase-2)**  
+Hands-on DevSecOps workflows featuring live network triage, custom Suricata IDS rules, automated threat detection, and continuous integration security.
 ---
 
 <div align="center">
