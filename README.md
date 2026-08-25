@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rafael Solano
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Building+Secure+AWS+Infrastructure...;Automating+DevSecOps+Pipelines...;Hardening+Cloud+Architectures...;Deploying+Infrastructure+as+Code...")>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Building+Secure+AWS+Infrastructure...;Automating+DevSecOps+Pipelines...;Hardening+Cloud+Architectures...;Deploying+Infrastructure+as+Code..." alt="Typing SVG" />
+ <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=YOUR_HEX_HERE&center=true&vcenter=true&width=500&lines=Building+Secure+AWS+Infrastructure...;Automating+DevSecOps+Pipelines...;Hardening+Cloud+Architectures...;Deploying+Infrastructure+as+Code...">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=YOUR_HEX_HERE&center=true&vcenter=true&width=500&lines=Building+Secure+AWS+Infrastructure...;Automating+DevSecOps+Pipelines...;Hardening+Cloud+Architectures...;Deploying+Infrastructure+as+Code..." alt="Typing SVG" />
   </a>
 </div>
 
