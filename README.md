@@ -39,11 +39,7 @@ Cybersecurity & DevSecOps Specialist focused on **Cloud Security, Infrastructure
 </div>
 
 **Cloud & Security Tools:**  
-AWS (EC2, S3, VPC, IAM, CloudWatch, GuardDuty) • Terraform • GitHub Actions • tfsec • Suricata • Nmap • Wireshark • Burp Suite • Docker
-
----
-
-### 📂 FEATURED PROJECTS
+AWS (EC2, S3, VPC, IAM, CloudWatch, GuardDuty) • Terraform • GitHub Actions • tfsec • Suricata • Nmap • Wireshark • Burp Suite •
 
 ### 📂 FEATURED PROJECTS
 
