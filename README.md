@@ -23,7 +23,8 @@ Cybersecurity & DevSecOps Specialist focused on **Cloud Security, Infrastructure
 
 📍 **New York City / Open to Remote**
 
----
+📄 [Download / View My Resume (PDF)](https://github.com/rafaelsolano01/rafaelsolano01/blob/main/Rafael_Solano_Resume_1Page.pdf)
+
 
 ### 🧰 TOOLS & TECHNOLOGIES
 
