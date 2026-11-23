@@ -14,7 +14,16 @@
 
 ### 🛡️ ABOUT ME
 
-Cybersecurity & DevSecOps Specialist focused on **Cloud Security, Infrastructure as Code (Terraform), Automated CI/CD Pipelines, and Threat Detection**. Hands-on experience architecting hardened AWS environments, engineering SAST quality gates, and conducting continuous security monitoring.
+🛡️ ABOUT ME
+
+AI Solutions Specialist (OptimaNova AI) and Cybersecurity & DevSecOps Graduate from The Knowledge House, focused on AI Workflow Automation (Make.com, Google Gemini API, Google Workspace), Cloud Security, Infrastructure as Code (Terraform), and Automated CI/CD Pipelines. Hands-on experience building human-in-the-loop AI intake pipelines, architecting hardened AWS environments, and engineering SAST quality gates.
+
+🎯 Currently Seeking:
+- AI Solutions Specialist / AI Workflow Automation Engineer
+- DevSecOps Engineer
+- Cloud Security Analyst / Junior Cloud Security Engineer
+
+📍 New York City / Open to Remote
 
 🎯 **Currently Seeking:**
 * DevSecOps Engineer
