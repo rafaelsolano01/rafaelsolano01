@@ -16,7 +16,7 @@
 
 🛡️ ABOUT ME
 
-AI Solutions Specialist (OptimaNova AI) and Cybersecurity & DevSecOps Graduate from The Knowledge House, focused on AI Workflow Automation (Make.com, Google Gemini API, Google Workspace), Cloud Security, Infrastructure as Code (Terraform), and Automated CI/CD Pipelines. Hands-on experience building human-in-the-loop AI intake pipelines, architecting hardened AWS environments, and engineering SAST quality gates.
+AI Solutions Specialist (OptimaNova AI) and Cybersecurity & DevSecOps Graduate of The Knowledge House, focused on AI Workflow Automation (Make.com, Google Gemini API, Google Workspace), Cloud Security, Infrastructure as Code (Terraform), and Automated CI/CD Pipelines. Hands-on experience building human-in-the-loop AI intake pipelines, architecting hardened AWS environments, and engineering SAST quality gates.
 
 🎯 Currently Seeking:
 - AI Solutions Specialist / AI Workflow Automation Engineer
